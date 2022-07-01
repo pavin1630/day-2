@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: calc();
+    }
+    .container{
+        background-color: rgb(248, 249, 251);
+        width: 100vw;
+        height: 100vh;
+    }
+    .div-1{
+        
+        width: 100vw;
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .div-1 img{
+        height: 45vh;
+        width: 100vw;
+    }
+    .div-1 text{
+        height: 10vh;
+        width: 20wh;
+    }
+    .div-2{
+        background-color: rgb(243, 196, 109);
+        width: 100vw;
+        height: 50vh;
+        text-align: center;
+    }
+    .div-3{
+        background-color: rgb(231, 121, 231);
+        width: 100vw;
+        height: 50vh;
+        text-align: center;
+    }
+    .div-4{
+        background-color:aqua;
+        width: 100vw;
+        height: 50vh;
+        text-align: center;
+    }
+    .div-1 P{
+        position: absolute;
+        font-size: 6em;
+        font-weight: 100;
+        font-family: 'Lobster', cursive;
+        
+    }
+    .div-2 img{
+        height: 38vh;
+    }
+    .div-3 img{
+        height: 38vh;
+    }
+    .div-4 img{
+        height: 38vh;
+    }
+     .div-2 h1{
+        font-family: 'Lobster', cursive;
+     }
+     .div-2 h2{
+        font-family: 'Lobster', cursive;
+     }
+     .div-3 h1{
+        font-family: 'Lobster', cursive;
+     }
+     .div-3 h2{
+        font-family: 'Lobster', cursive;
+     }
+     .div-4 h1{
+        font-family: 'Lobster', cursive;
+     }
+     .div-4 h2{
+        font-family: 'Lobster', cursive;
+     }
